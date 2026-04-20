@@ -1,21 +1,24 @@
+Built by a CA Final student exploring AI-powered financial tools.
 # AI Expense Analyzer
 
-A simple tool to analyze personal expenses and generate insights.
+A Python-based tool to analyze personal and business expenses and generate insights.
 
 ## Features
-- Calculates total spending
-- Category-wise analysis
-- Identifies highest expense category
+- Total expense calculation
+- Category-wise breakdown
+- Identifies highest spending area
 - Provides basic financial suggestions
 
-## Tech Used
+## Tech Stack
 - Python
 - Pandas
 
 ## How to Run
-
-1. Install requirements:
+1. Install dependencies:
    pip install pandas
 
-2. Run:
+2. Run the script:
    python app.py
+
+## Output Screenshot
+(Add screenshot here)
